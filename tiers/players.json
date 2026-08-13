@@ -48,5 +48,11 @@
         "tier": "LT3"
       }
     ]
+  },
+  {
+    "name": "FLYBUILDBREAK",
+    "region": "NA",
+    "type": "Premium",
+    "stats": []
   }
 ]
