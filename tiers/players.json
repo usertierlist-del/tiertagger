@@ -96,6 +96,11 @@
     "name": "llayvii",
     "region": "NA",
     "type": "Premium",
-    "stats": []
+    "stats": [
+      {
+        "kit": "SMP",
+        "tier": "LT3"
+      }
+    ]
   }
 ]
