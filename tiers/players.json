@@ -9,5 +9,11 @@
         "tier": "LT5"
       }
     ]
+  },
+  {
+    "name": "Stormlightduck",
+    "region": "NA",
+    "type": "Premium",
+    "stats": []
   }
 ]
