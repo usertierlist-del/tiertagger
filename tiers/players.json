@@ -139,6 +139,11 @@
     "name": "_sw3rd",
     "region": "NA",
     "type": "Premium",
-    "stats": []
+    "stats": [
+      {
+        "kit": "Sword",
+        "tier": "HT3"
+      }
+    ]
   }
 ]
