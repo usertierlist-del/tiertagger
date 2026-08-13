@@ -18,6 +18,11 @@
     "name": "Stormlightduck",
     "region": "NA",
     "type": "Premium",
-    "stats": []
+    "stats": [
+      {
+        "kit": "Sword",
+        "tier": "LT3"
+      }
+    ]
   }
 ]
