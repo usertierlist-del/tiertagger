@@ -19,6 +19,10 @@
       {
         "kit": "Potion",
         "tier": "LT3"
+      },
+      {
+        "kit": "OGV",
+        "tier": "LT3"
       }
     ]
   },
