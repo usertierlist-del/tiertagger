@@ -23,6 +23,10 @@
       {
         "kit": "OGV",
         "tier": "LT3"
+      },
+      {
+        "kit": "Vanilla",
+        "tier": "LT3"
       }
     ]
   },
