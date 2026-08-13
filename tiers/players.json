@@ -34,6 +34,10 @@
       {
         "kit": "Speed",
         "tier": "LT3"
+      },
+      {
+        "kit": "Potion",
+        "tier": "LT3"
       }
     ]
   }
