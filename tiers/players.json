@@ -118,12 +118,7 @@
     "name": "tat3r_",
     "region": "NA",
     "type": "Premium",
-    "stats": [
-      {
-        "kit": "Trident",
-        "tier": "HT4"
-      }
-    ]
+    "stats": []
   },
   {
     "name": "LovesDumb",
