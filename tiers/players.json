@@ -124,6 +124,11 @@
     "name": "LovesDumb",
     "region": "NA",
     "type": "Premium",
-    "stats": []
+    "stats": [
+      {
+        "kit": "Elytra",
+        "tier": "LT3"
+      }
+    ]
   }
 ]
