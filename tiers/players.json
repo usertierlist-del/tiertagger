@@ -1,1 +1,13 @@
-[]
+[
+  {
+    "name": "HandsomeHenryyy",
+    "region": "NA",
+    "type": "Premium",
+    "stats": [
+      {
+        "kit": "NethOp",
+        "tier": "LT5"
+      }
+    ]
+  }
+]
