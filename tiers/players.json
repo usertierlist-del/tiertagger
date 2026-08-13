@@ -108,5 +108,16 @@
     "region": "EU",
     "type": "Premium",
     "stats": []
+  },
+  {
+    "name": "tat3r_",
+    "region": "NA",
+    "type": "Premium",
+    "stats": [
+      {
+        "kit": "Vanilla",
+        "tier": "HT1"
+      }
+    ]
   }
 ]
