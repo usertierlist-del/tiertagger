@@ -130,5 +130,11 @@
         "tier": "LT3"
       }
     ]
+  },
+  {
+    "name": "_sw3rd",
+    "region": "NA",
+    "type": "Premium",
+    "stats": []
   }
 ]
