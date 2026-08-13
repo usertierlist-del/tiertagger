@@ -67,5 +67,11 @@
         "tier": "HT3"
       }
     ]
+  },
+  {
+    "name": "Sparkstt",
+    "region": "NA",
+    "type": "Premium",
+    "stats": []
   }
 ]
