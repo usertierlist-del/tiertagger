@@ -53,6 +53,11 @@
     "name": "FLYBUILDBREAK",
     "region": "NA",
     "type": "Premium",
-    "stats": []
+    "stats": [
+      {
+        "kit": "Cart",
+        "tier": "HT3"
+      }
+    ]
   }
 ]
