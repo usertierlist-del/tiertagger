@@ -150,6 +150,11 @@
     "name": "ItzRealMe",
     "region": "NA",
     "type": "Premium",
-    "stats": []
+    "stats": [
+      {
+        "kit": "Spearmace",
+        "tier": "LT5"
+      }
+    ]
   }
 ]
