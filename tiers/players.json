@@ -212,5 +212,11 @@
         "tier": "LT4"
       }
     ]
+  },
+  {
+    "name": "PxYoutube",
+    "region": "EU",
+    "type": "Premium",
+    "stats": []
   }
 ]
