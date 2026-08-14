@@ -253,5 +253,11 @@
         "tier": "LT3"
       }
     ]
+  },
+  {
+    "name": "perkent",
+    "region": "NA",
+    "type": "Premium",
+    "stats": []
   }
 ]
