@@ -161,6 +161,10 @@
       {
         "kit": "Potion",
         "tier": "HT5"
+      },
+      {
+        "kit": "Axe",
+        "tier": "HT4"
       }
     ]
   },
