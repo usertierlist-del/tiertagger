@@ -120,6 +120,10 @@
       {
         "kit": "OGV",
         "tier": "LT3"
+      },
+      {
+        "kit": "Trident",
+        "tier": "LT3"
       }
     ]
   },
