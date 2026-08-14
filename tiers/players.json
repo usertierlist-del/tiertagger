@@ -225,6 +225,10 @@
       {
         "kit": "OGV",
         "tier": "HT5"
+      },
+      {
+        "kit": "NethOp",
+        "tier": "LT3"
       }
     ]
   },
