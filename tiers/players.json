@@ -239,6 +239,11 @@
     "name": "Aqvia",
     "region": "EU",
     "type": "Premium",
-    "stats": []
+    "stats": [
+      {
+        "kit": "Cart",
+        "tier": "HT3"
+      }
+    ]
   }
 ]
