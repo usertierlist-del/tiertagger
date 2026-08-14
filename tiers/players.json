@@ -157,6 +157,10 @@
       {
         "kit": "OGV",
         "tier": "LT3"
+      },
+      {
+        "kit": "Potion",
+        "tier": "HT5"
       }
     ]
   },
