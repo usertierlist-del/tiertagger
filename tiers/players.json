@@ -145,5 +145,11 @@
         "tier": "HT3"
       }
     ]
+  },
+  {
+    "name": "ItzRealMe",
+    "region": "NA",
+    "type": "Premium",
+    "stats": []
   }
 ]
