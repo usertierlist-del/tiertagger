@@ -223,5 +223,11 @@
     "region": "EU",
     "type": "Premium",
     "stats": []
+  },
+  {
+    "name": "daoie",
+    "region": "NA",
+    "type": "Premium",
+    "stats": []
   }
 ]
