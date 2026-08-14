@@ -234,5 +234,11 @@
         "tier": "HT4"
       }
     ]
+  },
+  {
+    "name": "Aqvia",
+    "region": "EU",
+    "type": "Premium",
+    "stats": []
   }
 ]
