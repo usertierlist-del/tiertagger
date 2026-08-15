@@ -98,7 +98,12 @@
     "name": "zithh",
     "region": "NA",
     "type": "Premium",
-    "stats": []
+    "stats": [
+      {
+        "kit": "UHC",
+        "tier": "LT4"
+      }
+    ]
   },
   {
     "name": "SWORDWOLF97",
