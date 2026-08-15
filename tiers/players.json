@@ -467,6 +467,10 @@
       {
         "kit": "SMP",
         "tier": "HT4"
+      },
+      {
+        "kit": "Potion",
+        "tier": "LT5"
       }
     ]
   },
