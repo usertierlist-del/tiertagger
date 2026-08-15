@@ -1418,5 +1418,11 @@
     "region": "NA",
     "type": "Premium",
     "stats": []
+  },
+  {
+    "name": "DVN1TY",
+    "region": "EU",
+    "type": "Premium",
+    "stats": []
   }
 ]
