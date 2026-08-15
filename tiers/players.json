@@ -166,6 +166,10 @@
       {
         "kit": "NethOp",
         "tier": "LT3"
+      },
+      {
+        "kit": "DiaSMP",
+        "tier": "HT4"
       }
     ]
   },
