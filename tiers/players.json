@@ -412,6 +412,10 @@
       {
         "kit": "Cart",
         "tier": "LT3"
+      },
+      {
+        "kit": "UHC",
+        "tier": "LT3"
       }
     ]
   },
