@@ -255,6 +255,10 @@
       {
         "kit": "DiaSMP",
         "tier": "LT4"
+      },
+      {
+        "kit": "Sword",
+        "tier": "LT3"
       }
     ]
   },
