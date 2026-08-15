@@ -1273,5 +1273,11 @@
         "tier": "HT4"
       }
     ]
+  },
+  {
+    "name": "TheWayThatItWas",
+    "region": "NA",
+    "type": "Premium",
+    "stats": []
   }
 ]
