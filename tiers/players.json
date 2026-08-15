@@ -682,6 +682,10 @@
       {
         "kit": "Cart",
         "tier": "HT5"
+      },
+      {
+        "kit": "DiaSMP",
+        "tier": "HT5"
       }
     ]
   },
