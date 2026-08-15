@@ -475,7 +475,12 @@
     "name": "DangerDash",
     "region": "EU",
     "type": "Premium",
-    "stats": []
+    "stats": [
+      {
+        "kit": "Speed",
+        "tier": "LT3"
+      }
+    ]
   },
   {
     "name": "Okay4ma_",
