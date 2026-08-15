@@ -771,5 +771,11 @@
     "region": "AS",
     "type": "Premium",
     "stats": []
+  },
+  {
+    "name": "Yrfz",
+    "region": "NA",
+    "type": "Premium",
+    "stats": []
   }
 ]
