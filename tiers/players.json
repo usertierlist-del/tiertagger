@@ -331,5 +331,11 @@
     "region": "NA",
     "type": "Premium",
     "stats": []
+  },
+  {
+    "name": "AzurL_",
+    "region": "EU",
+    "type": "Premium",
+    "stats": []
   }
 ]
