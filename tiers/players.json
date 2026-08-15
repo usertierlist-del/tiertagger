@@ -208,6 +208,10 @@
       {
         "kit": "SMP",
         "tier": "LT4"
+      },
+      {
+        "kit": "Potion",
+        "tier": "HT5"
       }
     ]
   },
