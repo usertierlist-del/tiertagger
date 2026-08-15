@@ -1057,5 +1057,11 @@
     "region": "NA",
     "type": "Premium",
     "stats": []
+  },
+  {
+    "name": "qrzs",
+    "region": "EU",
+    "type": "Premium",
+    "stats": []
   }
 ]
