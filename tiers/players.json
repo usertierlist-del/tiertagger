@@ -774,7 +774,12 @@
     "name": "feelingsoblack",
     "region": "NA",
     "type": "Premium",
-    "stats": []
+    "stats": [
+      {
+        "kit": "SMP",
+        "tier": "LT3"
+      }
+    ]
   },
   {
     "name": "Vexel_og",
