@@ -662,5 +662,11 @@
     "region": "EU",
     "type": "Premium",
     "stats": []
+  },
+  {
+    "name": "feelingsoblack",
+    "region": "NA",
+    "type": "Premium",
+    "stats": []
   }
 ]
