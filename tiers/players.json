@@ -370,6 +370,10 @@
       {
         "kit": "Trident",
         "tier": "LT4"
+      },
+      {
+        "kit": "Potion",
+        "tier": "HT4"
       }
     ]
   },
