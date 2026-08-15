@@ -373,5 +373,11 @@
     "region": "NA",
     "type": "Premium",
     "stats": []
+  },
+  {
+    "name": "DexLikesSteak",
+    "region": "NA",
+    "type": "Premium",
+    "stats": []
   }
 ]
