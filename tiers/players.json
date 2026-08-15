@@ -528,5 +528,11 @@
         "tier": "LT3"
       }
     ]
+  },
+  {
+    "name": "STORMWEMXY",
+    "region": "EU",
+    "type": "Premium",
+    "stats": []
   }
 ]
