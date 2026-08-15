@@ -847,7 +847,12 @@
     "name": "kittur",
     "region": "NA",
     "type": "Premium",
-    "stats": []
+    "stats": [
+      {
+        "kit": "Sword",
+        "tier": "LT4"
+      }
+    ]
   },
   {
     "name": "Lowball20BCoin",
