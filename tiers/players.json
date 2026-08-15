@@ -676,5 +676,11 @@
     "region": "NA",
     "type": "Premium",
     "stats": []
+  },
+  {
+    "name": "Vexel_og",
+    "region": "AS",
+    "type": "Premium",
+    "stats": []
   }
 ]
