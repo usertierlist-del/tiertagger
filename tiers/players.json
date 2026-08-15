@@ -332,6 +332,10 @@
       {
         "kit": "UHC",
         "tier": "LT5"
+      },
+      {
+        "kit": "NethOp",
+        "tier": "LT5"
       }
     ]
   },
