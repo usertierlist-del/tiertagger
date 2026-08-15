@@ -717,6 +717,10 @@
       {
         "kit": "Elytra",
         "tier": "HT5"
+      },
+      {
+        "kit": "Speed",
+        "tier": "LT3"
       }
     ]
   },
