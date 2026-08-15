@@ -852,7 +852,12 @@
     "name": "Ekas424",
     "region": "NA",
     "type": "Premium",
-    "stats": []
+    "stats": [
+      {
+        "kit": "SMP",
+        "tier": "HT4"
+      }
+    ]
   },
   {
     "name": "carttpvp",
