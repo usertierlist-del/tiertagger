@@ -556,5 +556,11 @@
         "tier": "LT3"
       }
     ]
+  },
+  {
+    "name": "_mrdog",
+    "region": "NA",
+    "type": "Premium",
+    "stats": []
   }
 ]
