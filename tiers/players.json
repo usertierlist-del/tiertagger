@@ -904,6 +904,11 @@
     "name": "Curr2ncy",
     "region": "EU",
     "type": "Premium",
-    "stats": []
+    "stats": [
+      {
+        "kit": "SMP",
+        "tier": "HT3"
+      }
+    ]
   }
 ]
