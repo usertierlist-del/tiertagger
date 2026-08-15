@@ -1063,5 +1063,11 @@
     "region": "EU",
     "type": "Premium",
     "stats": []
+  },
+  {
+    "name": "VoidGlazed",
+    "region": "EU",
+    "type": "Premium",
+    "stats": []
   }
 ]
