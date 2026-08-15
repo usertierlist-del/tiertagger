@@ -877,12 +877,7 @@
     "name": "thechungiest123",
     "region": "NA",
     "type": "Premium",
-    "stats": [
-      {
-        "kit": "OGV",
-        "tier": "LT5"
-      }
-    ]
+    "stats": []
   },
   {
     "name": "wgtv",
