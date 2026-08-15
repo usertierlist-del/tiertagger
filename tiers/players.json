@@ -1355,6 +1355,10 @@
       {
         "kit": "Cart",
         "tier": "LT3"
+      },
+      {
+        "kit": "DiaSMP",
+        "tier": "LT3"
       }
     ]
   }
