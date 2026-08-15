@@ -533,6 +533,11 @@
     "name": "STORMWEMXY",
     "region": "EU",
     "type": "Premium",
-    "stats": []
+    "stats": [
+      {
+        "kit": "SMP",
+        "tier": "LT3"
+      }
+    ]
   }
 ]
