@@ -926,5 +926,11 @@
         "tier": "LT3"
       }
     ]
+  },
+  {
+    "name": "uno0226",
+    "region": "AS",
+    "type": "Premium",
+    "stats": []
   }
 ]
