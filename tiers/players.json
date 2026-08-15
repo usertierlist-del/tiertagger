@@ -477,6 +477,10 @@
       {
         "kit": "OGV",
         "tier": "LT5"
+      },
+      {
+        "kit": "Speed",
+        "tier": "LT4"
       }
     ]
   },
