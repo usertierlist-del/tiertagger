@@ -891,5 +891,11 @@
     "region": "NA",
     "type": "Premium",
     "stats": []
+  },
+  {
+    "name": "Curr2ncy",
+    "region": "EU",
+    "type": "Premium",
+    "stats": []
   }
 ]
