@@ -455,6 +455,10 @@
       {
         "kit": "Speed",
         "tier": "LT3"
+      },
+      {
+        "kit": "SMP",
+        "tier": "HT4"
       }
     ]
   },
