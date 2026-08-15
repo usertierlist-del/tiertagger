@@ -448,5 +448,11 @@
     "region": "EU",
     "type": "Premium",
     "stats": []
+  },
+  {
+    "name": "DangerDash",
+    "region": "EU",
+    "type": "Premium",
+    "stats": []
   }
 ]
