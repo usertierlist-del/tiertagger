@@ -1380,5 +1380,11 @@
         "tier": "LT3"
       }
     ]
+  },
+  {
+    "name": "RapidIsBatman",
+    "region": "EU",
+    "type": "Premium",
+    "stats": []
   }
 ]
