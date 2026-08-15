@@ -870,7 +870,12 @@
     "name": "Lowball20BCoin",
     "region": "NA",
     "type": "Premium",
-    "stats": []
+    "stats": [
+      {
+        "kit": "Sword",
+        "tier": "LT3"
+      }
+    ]
   },
   {
     "name": "furified",
