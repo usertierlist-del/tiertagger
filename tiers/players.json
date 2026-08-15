@@ -444,6 +444,10 @@
       {
         "kit": "Trident",
         "tier": "LT3"
+      },
+      {
+        "kit": "NethOp",
+        "tier": "LT3"
       }
     ]
   },
