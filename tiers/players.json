@@ -1412,5 +1412,11 @@
     "region": "EU",
     "type": "Premium",
     "stats": []
+  },
+  {
+    "name": "Floreya6",
+    "region": "NA",
+    "type": "Premium",
+    "stats": []
   }
 ]
