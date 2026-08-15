@@ -387,6 +387,10 @@
       {
         "kit": "Sword",
         "tier": "LT4"
+      },
+      {
+        "kit": "UHC",
+        "tier": "HT5"
       }
     ]
   },
