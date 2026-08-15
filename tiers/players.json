@@ -1227,5 +1227,11 @@
         "tier": "HT4"
       }
     ]
+  },
+  {
+    "name": "yaboyfruit",
+    "region": "EU",
+    "type": "Premium",
+    "stats": []
   }
 ]
