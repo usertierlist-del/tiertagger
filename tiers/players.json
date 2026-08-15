@@ -731,5 +731,11 @@
     "region": "NA",
     "type": "Premium",
     "stats": []
+  },
+  {
+    "name": "furified",
+    "region": "AS",
+    "type": "Premium",
+    "stats": []
   }
 ]
