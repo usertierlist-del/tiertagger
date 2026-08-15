@@ -908,6 +908,10 @@
       {
         "kit": "SMP",
         "tier": "HT3"
+      },
+      {
+        "kit": "OGV",
+        "tier": "HT3"
       }
     ]
   }
