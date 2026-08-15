@@ -1113,6 +1113,11 @@
     "name": "Puppyboykoga",
     "region": "NA",
     "type": "Premium",
-    "stats": []
+    "stats": [
+      {
+        "kit": "SMP",
+        "tier": "LT3"
+      }
+    ]
   }
 ]
