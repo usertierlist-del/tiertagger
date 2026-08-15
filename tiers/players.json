@@ -1085,5 +1085,11 @@
     "region": "EU",
     "type": "Premium",
     "stats": []
+  },
+  {
+    "name": "diabeastes",
+    "region": "NA",
+    "type": "Premium",
+    "stats": []
   }
 ]
