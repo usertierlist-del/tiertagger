@@ -794,6 +794,10 @@
       {
         "kit": "Speed",
         "tier": "LT3"
+      },
+      {
+        "kit": "UHC",
+        "tier": "HT5"
       }
     ]
   },
