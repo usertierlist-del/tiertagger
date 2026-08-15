@@ -591,6 +591,10 @@
       {
         "kit": "Elytra",
         "tier": "HT5"
+      },
+      {
+        "kit": "Cart",
+        "tier": "HT5"
       }
     ]
   },
