@@ -1351,6 +1351,11 @@
     "name": "Mendem",
     "region": "EU",
     "type": "Premium",
-    "stats": []
+    "stats": [
+      {
+        "kit": "Cart",
+        "tier": "LT3"
+      }
+    ]
   }
 ]
