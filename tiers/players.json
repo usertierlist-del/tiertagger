@@ -408,7 +408,12 @@
     "name": "A3von",
     "region": "NA",
     "type": "Premium",
-    "stats": []
+    "stats": [
+      {
+        "kit": "Cart",
+        "tier": "LT3"
+      }
+    ]
   },
   {
     "name": "FIoweret",
