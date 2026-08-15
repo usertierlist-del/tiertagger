@@ -1439,7 +1439,12 @@
     "name": "DVN1TY",
     "region": "EU",
     "type": "Premium",
-    "stats": []
+    "stats": [
+      {
+        "kit": "Sword",
+        "tier": "LT3"
+      }
+    ]
   },
   {
     "name": "Duck4girls",
