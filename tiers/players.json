@@ -1091,5 +1091,11 @@
     "region": "NA",
     "type": "Premium",
     "stats": []
+  },
+  {
+    "name": "xknoz",
+    "region": "AS",
+    "type": "Premium",
+    "stats": []
   }
 ]
