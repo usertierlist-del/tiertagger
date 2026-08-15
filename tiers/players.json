@@ -324,7 +324,12 @@
     "name": "n0ai",
     "region": "NA",
     "type": "Premium",
-    "stats": []
+    "stats": [
+      {
+        "kit": "Sword",
+        "tier": "LT5"
+      }
+    ]
   },
   {
     "name": "ItzGeorge29",
