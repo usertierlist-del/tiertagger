@@ -1459,5 +1459,11 @@
     "region": "EU",
     "type": "Premium",
     "stats": []
+  },
+  {
+    "name": "Inkypc2",
+    "region": "NA",
+    "type": "Premium",
+    "stats": []
   }
 ]
