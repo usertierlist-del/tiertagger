@@ -1322,5 +1322,11 @@
         "tier": "LT3"
       }
     ]
+  },
+  {
+    "name": "deesiire",
+    "region": "NA",
+    "type": "Premium",
+    "stats": []
   }
 ]
