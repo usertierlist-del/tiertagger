@@ -1246,6 +1246,10 @@
       {
         "kit": "Sword",
         "tier": "HT4"
+      },
+      {
+        "kit": "Speed",
+        "tier": "LT3"
       }
     ]
   }
