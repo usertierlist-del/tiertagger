@@ -686,5 +686,11 @@
     "region": "AS",
     "type": "Premium",
     "stats": []
+  },
+  {
+    "name": "LosKabanos",
+    "region": "EU",
+    "type": "Premium",
+    "stats": []
   }
 ]
