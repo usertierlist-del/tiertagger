@@ -149,6 +149,10 @@
       {
         "kit": "Spearmace",
         "tier": "LT3"
+      },
+      {
+        "kit": "Vanilla",
+        "tier": "LT3"
       }
     ]
   },
