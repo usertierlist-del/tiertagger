@@ -698,7 +698,12 @@
     "name": "wgtv",
     "region": "EU",
     "type": "Premium",
-    "stats": []
+    "stats": [
+      {
+        "kit": "DiaSMP",
+        "tier": "HT5"
+      }
+    ]
   },
   {
     "name": "feelingsoblack",
