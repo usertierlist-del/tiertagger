@@ -336,7 +336,12 @@
     "name": "AzurL_",
     "region": "EU",
     "type": "Premium",
-    "stats": []
+    "stats": [
+      {
+        "kit": "OGV",
+        "tier": "LT3"
+      }
+    ]
   },
   {
     "name": "Vort3xxxYT",
