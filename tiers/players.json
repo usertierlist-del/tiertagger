@@ -576,5 +576,11 @@
     "region": "NA",
     "type": "Premium",
     "stats": []
+  },
+  {
+    "name": "Wassureta",
+    "region": "EU",
+    "type": "Premium",
+    "stats": []
   }
 ]
