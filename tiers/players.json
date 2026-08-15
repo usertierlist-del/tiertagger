@@ -216,6 +216,10 @@
       {
         "kit": "OGV",
         "tier": "HT5"
+      },
+      {
+        "kit": "Cart",
+        "tier": "LT4"
       }
     ]
   },
