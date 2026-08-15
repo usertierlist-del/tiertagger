@@ -223,6 +223,10 @@
       {
         "kit": "NethOp",
         "tier": "HT4"
+      },
+      {
+        "kit": "SMP",
+        "tier": "HT5"
       }
     ]
   },
