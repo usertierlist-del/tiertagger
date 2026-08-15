@@ -1237,5 +1237,11 @@
     "region": "EU",
     "type": "Premium",
     "stats": []
+  },
+  {
+    "name": "Lanluu",
+    "region": "NA",
+    "type": "Premium",
+    "stats": []
   }
 ]
