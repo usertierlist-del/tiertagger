@@ -510,7 +510,12 @@
     "name": "FIoweret",
     "region": "EU",
     "type": "Premium",
-    "stats": []
+    "stats": [
+      {
+        "kit": "Elytra",
+        "tier": "HT5"
+      }
+    ]
   },
   {
     "name": "DangerDash",
