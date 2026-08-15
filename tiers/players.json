@@ -643,5 +643,11 @@
     "region": "NA",
     "type": "Premium",
     "stats": []
+  },
+  {
+    "name": "wgtv",
+    "region": "EU",
+    "type": "Premium",
+    "stats": []
   }
 ]
