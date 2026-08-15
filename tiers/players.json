@@ -1336,5 +1336,11 @@
     "region": "NA",
     "type": "Premium",
     "stats": []
+  },
+  {
+    "name": "infinitxy",
+    "region": "EU",
+    "type": "Premium",
+    "stats": []
   }
 ]
