@@ -500,6 +500,11 @@
     "name": "Amraksaw",
     "region": "NA",
     "type": "Premium",
-    "stats": []
+    "stats": [
+      {
+        "kit": "Axe",
+        "tier": "LT3"
+      }
+    ]
   }
 ]
