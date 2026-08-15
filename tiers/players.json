@@ -1195,5 +1195,16 @@
     "region": "EU",
     "type": "Premium",
     "stats": []
+  },
+  {
+    "name": "Streyfe",
+    "region": "PK",
+    "type": "Premium",
+    "stats": [
+      {
+        "kit": "Elytra",
+        "tier": "LT5"
+      }
+    ]
   }
 ]
