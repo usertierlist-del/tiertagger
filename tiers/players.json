@@ -432,6 +432,10 @@
       {
         "kit": "OGV",
         "tier": "LT3"
+      },
+      {
+        "kit": "DiaSMP",
+        "tier": "LT3"
       }
     ]
   },
