@@ -426,7 +426,12 @@
     "name": "Aquaking6767",
     "region": "NA",
     "type": "Premium",
-    "stats": []
+    "stats": [
+      {
+        "kit": "UHC",
+        "tier": "LT5"
+      }
+    ]
   },
   {
     "name": "A3von",
