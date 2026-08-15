@@ -242,6 +242,10 @@
       {
         "kit": "NethOp",
         "tier": "LT3"
+      },
+      {
+        "kit": "UHC",
+        "tier": "LT3"
       }
     ]
   },
