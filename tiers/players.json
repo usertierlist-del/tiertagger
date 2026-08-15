@@ -1051,5 +1051,11 @@
         "tier": "HT4"
       }
     ]
+  },
+  {
+    "name": "ChronosMC_",
+    "region": "NA",
+    "type": "Premium",
+    "stats": []
   }
 ]
