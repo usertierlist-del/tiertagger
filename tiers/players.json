@@ -409,5 +409,11 @@
     "region": "NA",
     "type": "Premium",
     "stats": []
+  },
+  {
+    "name": "FIoweret",
+    "region": "EU",
+    "type": "Premium",
+    "stats": []
   }
 ]
