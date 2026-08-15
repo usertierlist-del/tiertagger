@@ -385,5 +385,11 @@
     "region": "NA",
     "type": "Premium",
     "stats": []
+  },
+  {
+    "name": "vinix__",
+    "region": "EU",
+    "type": "Premium",
+    "stats": []
   }
 ]
