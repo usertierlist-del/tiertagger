@@ -355,5 +355,11 @@
     "region": "EU",
     "type": "Premium",
     "stats": []
+  },
+  {
+    "name": "Larplil",
+    "region": "NA",
+    "type": "Premium",
+    "stats": []
   }
 ]
