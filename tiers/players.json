@@ -719,5 +719,11 @@
     "region": "NA",
     "type": "Premium",
     "stats": []
+  },
+  {
+    "name": "kittur",
+    "region": "NA",
+    "type": "Premium",
+    "stats": []
   }
 ]
