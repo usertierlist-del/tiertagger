@@ -1158,5 +1158,11 @@
         "tier": "LT3"
       }
     ]
+  },
+  {
+    "name": "KKyurie",
+    "region": "NA",
+    "type": "Premium",
+    "stats": []
   }
 ]
