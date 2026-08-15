@@ -348,6 +348,10 @@
       {
         "kit": "Spearmace",
         "tier": "HT5"
+      },
+      {
+        "kit": "Cart",
+        "tier": "HT5"
       }
     ]
   },
