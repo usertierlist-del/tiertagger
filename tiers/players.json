@@ -996,7 +996,12 @@
     "name": "ken31fish",
     "region": "EU",
     "type": "Premium",
-    "stats": []
+    "stats": [
+      {
+        "kit": "UHC",
+        "tier": "LT3"
+      }
+    ]
   },
   {
     "name": "kylielovesflower",
