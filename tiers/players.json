@@ -970,5 +970,11 @@
     "region": "AS",
     "type": "Premium",
     "stats": []
+  },
+  {
+    "name": "ken31fish",
+    "region": "EU",
+    "type": "Premium",
+    "stats": []
   }
 ]
