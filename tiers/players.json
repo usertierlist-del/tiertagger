@@ -595,6 +595,10 @@
       {
         "kit": "UHC",
         "tier": "LT4"
+      },
+      {
+        "kit": "Potion",
+        "tier": "LT4"
       }
     ]
   },
