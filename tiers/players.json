@@ -1136,6 +1136,11 @@
     "name": "PhoenixDuo",
     "region": "NA",
     "type": "Premium",
-    "stats": []
+    "stats": [
+      {
+        "kit": "UHC",
+        "tier": "LT3"
+      }
+    ]
   }
 ]
