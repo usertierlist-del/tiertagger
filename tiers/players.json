@@ -658,6 +658,10 @@
       {
         "kit": "Potion",
         "tier": "LT5"
+      },
+      {
+        "kit": "Cart",
+        "tier": "HT5"
       }
     ]
   },
