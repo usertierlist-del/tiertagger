@@ -321,7 +321,12 @@
     "name": "TrickyOnSnuffy",
     "region": "NA",
     "type": "Cracked",
-    "stats": []
+    "stats": [
+      {
+        "kit": "SMP",
+        "tier": "LT4"
+      }
+    ]
   },
   {
     "name": "HoodDihDemarcus",
