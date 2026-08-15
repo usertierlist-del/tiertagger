@@ -1097,5 +1097,11 @@
     "region": "AS",
     "type": "Premium",
     "stats": []
+  },
+  {
+    "name": "LegoPirate29",
+    "region": "NA",
+    "type": "Premium",
+    "stats": []
   }
 ]
