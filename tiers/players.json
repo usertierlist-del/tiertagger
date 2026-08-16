@@ -82,6 +82,10 @@
       {
         "kit": "UHC",
         "tier": "LT4"
+      },
+      {
+        "kit": "NethOp",
+        "tier": "HT4"
       }
     ]
   },
