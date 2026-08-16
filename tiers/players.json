@@ -1119,6 +1119,10 @@
       {
         "kit": "Sword",
         "tier": "HT4"
+      },
+      {
+        "kit": "UHC",
+        "tier": "HT5"
       }
     ]
   },
