@@ -1707,5 +1707,11 @@
     "region": "EU",
     "type": "Premium",
     "stats": []
+  },
+  {
+    "name": "Pengwanz",
+    "region": "NA",
+    "type": "Premium",
+    "stats": []
   }
 ]
