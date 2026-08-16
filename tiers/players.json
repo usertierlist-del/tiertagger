@@ -1340,7 +1340,12 @@
     "name": "VoidGlazed",
     "region": "EU",
     "type": "Premium",
-    "stats": []
+    "stats": [
+      {
+        "kit": "Sword",
+        "tier": "LT4"
+      }
+    ]
   },
   {
     "name": "_TinyToby",
