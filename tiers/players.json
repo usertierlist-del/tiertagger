@@ -1365,7 +1365,12 @@
     "name": "Axlon_",
     "region": "EU",
     "type": "Premium",
-    "stats": []
+    "stats": [
+      {
+        "kit": "DiaSMP",
+        "tier": "LT4"
+      }
+    ]
   },
   {
     "name": "Streyfe",
