@@ -74,6 +74,10 @@
       {
         "kit": "Vanilla",
         "tier": "LT4"
+      },
+      {
+        "kit": "Trident",
+        "tier": "LT4"
       }
     ]
   },
