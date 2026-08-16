@@ -416,6 +416,10 @@
       {
         "kit": "SMP",
         "tier": "LT3"
+      },
+      {
+        "kit": "UHC",
+        "tier": "LT3"
       }
     ]
   },
