@@ -97,6 +97,10 @@
       {
         "kit": "Sword",
         "tier": "HT4"
+      },
+      {
+        "kit": "Trident",
+        "tier": "LT4"
       }
     ]
   },
