@@ -715,6 +715,10 @@
       {
         "kit": "SMP",
         "tier": "HT5"
+      },
+      {
+        "kit": "Trident",
+        "tier": "LT5"
       }
     ]
   },
