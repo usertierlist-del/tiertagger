@@ -1719,7 +1719,12 @@
     "name": "CheetahPancakes",
     "region": "NA",
     "type": "Premium",
-    "stats": []
+    "stats": [
+      {
+        "kit": "OGV",
+        "tier": "LT5"
+      }
+    ]
   },
   {
     "name": "aloke",
