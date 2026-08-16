@@ -1530,5 +1530,11 @@
         "tier": "HT5"
       }
     ]
+  },
+  {
+    "name": "nerdout_thenerd",
+    "region": "NA",
+    "type": "Premium",
+    "stats": []
   }
 ]
