@@ -1627,5 +1627,11 @@
     "region": "AS",
     "type": "Premium",
     "stats": []
+  },
+  {
+    "name": "Ieatleafs01",
+    "region": "EU",
+    "type": "Premium",
+    "stats": []
   }
 ]
