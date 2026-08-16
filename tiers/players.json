@@ -1490,6 +1490,11 @@
     "name": "Inkypc2",
     "region": "NA",
     "type": "Premium",
-    "stats": []
+    "stats": [
+      {
+        "kit": "SMP",
+        "tier": "HT5"
+      }
+    ]
   }
 ]
