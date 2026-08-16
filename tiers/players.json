@@ -1458,7 +1458,12 @@
     "name": "Duck4girls",
     "region": "EU",
     "type": "Premium",
-    "stats": []
+    "stats": [
+      {
+        "kit": "Sword",
+        "tier": "LT4"
+      }
+    ]
   },
   {
     "name": "Inkypc2",
