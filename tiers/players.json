@@ -354,6 +354,10 @@
       {
         "kit": "Cart",
         "tier": "LT3"
+      },
+      {
+        "kit": "Vanilla",
+        "tier": "LT3"
       }
     ]
   },
