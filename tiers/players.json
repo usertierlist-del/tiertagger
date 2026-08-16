@@ -194,6 +194,10 @@
       {
         "kit": "Cart",
         "tier": "LT3"
+      },
+      {
+        "kit": "Axe",
+        "tier": "HT4"
       }
     ]
   },
