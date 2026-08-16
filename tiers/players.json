@@ -1685,6 +1685,10 @@
       {
         "kit": "Speed",
         "tier": "LT4"
+      },
+      {
+        "kit": "NethOp",
+        "tier": "LT5"
       }
     ]
   }
