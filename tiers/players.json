@@ -1574,5 +1574,11 @@
         "tier": "LT3"
       }
     ]
+  },
+  {
+    "name": "SnowFR_",
+    "region": "AS",
+    "type": "Premium",
+    "stats": []
   }
 ]
