@@ -232,6 +232,10 @@
       {
         "kit": "DiaSMP",
         "tier": "LT4"
+      },
+      {
+        "kit": "Vanilla",
+        "tier": "HT5"
       }
     ]
   },
