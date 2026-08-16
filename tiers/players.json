@@ -547,7 +547,12 @@
     "name": "TheDimy",
     "region": "EU",
     "type": "Premium",
-    "stats": []
+    "stats": [
+      {
+        "kit": "DiaSMP",
+        "tier": "LT4"
+      }
+    ]
   },
   {
     "name": "Larplil",
