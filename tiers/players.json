@@ -170,6 +170,10 @@
       {
         "kit": "DiaSMP",
         "tier": "HT4"
+      },
+      {
+        "kit": "Cart",
+        "tier": "LT3"
       }
     ]
   },
