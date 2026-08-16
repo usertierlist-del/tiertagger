@@ -1601,5 +1601,11 @@
     "region": "NA",
     "type": "Premium",
     "stats": []
+  },
+  {
+    "name": "aloke",
+    "region": "AS",
+    "type": "Premium",
+    "stats": []
   }
 ]
