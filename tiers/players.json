@@ -888,7 +888,12 @@
     "name": "GinjaMC",
     "region": "NA",
     "type": "Premium",
-    "stats": []
+    "stats": [
+      {
+        "kit": "UHC",
+        "tier": "HT5"
+      }
+    ]
   },
   {
     "name": "ImNo0ne",
