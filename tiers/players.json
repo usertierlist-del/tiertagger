@@ -1695,5 +1695,11 @@
         "tier": "LT5"
       }
     ]
+  },
+  {
+    "name": "Silentcy",
+    "region": "NA",
+    "type": "Premium",
+    "stats": []
   }
 ]
