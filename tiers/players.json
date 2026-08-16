@@ -220,6 +220,10 @@
       {
         "kit": "Cart",
         "tier": "LT4"
+      },
+      {
+        "kit": "DiaSMP",
+        "tier": "LT4"
       }
     ]
   },
