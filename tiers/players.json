@@ -862,6 +862,10 @@
       {
         "kit": "Spearmace",
         "tier": "LT4"
+      },
+      {
+        "kit": "NethOp",
+        "tier": "LT4"
       }
     ]
   },
