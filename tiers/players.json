@@ -612,6 +612,10 @@
       {
         "kit": "Axe",
         "tier": "LT3"
+      },
+      {
+        "kit": "Vanilla",
+        "tier": "HT4"
       }
     ]
   },
