@@ -1751,7 +1751,12 @@
     "name": "Gourtly",
     "region": "NA",
     "type": "Premium",
-    "stats": []
+    "stats": [
+      {
+        "kit": "Vanilla",
+        "tier": "LT5"
+      }
+    ]
   },
   {
     "name": "Fluxation_",
