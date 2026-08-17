@@ -1825,6 +1825,10 @@
       {
         "kit": "Sword",
         "tier": "LT4"
+      },
+      {
+        "kit": "Vanilla",
+        "tier": "LT4"
       }
     ]
   },
