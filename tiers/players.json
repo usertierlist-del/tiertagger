@@ -1904,6 +1904,10 @@
       {
         "kit": "UHC",
         "tier": "LT5"
+      },
+      {
+        "kit": "Speed",
+        "tier": "LT3"
       }
     ]
   },
