@@ -1806,6 +1806,10 @@
       {
         "kit": "Vanilla",
         "tier": "HT4"
+      },
+      {
+        "kit": "UHC",
+        "tier": "HT5"
       }
     ]
   },
