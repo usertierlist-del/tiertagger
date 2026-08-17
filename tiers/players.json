@@ -1852,5 +1852,11 @@
     "region": "NA",
     "type": "Premium",
     "stats": []
+  },
+  {
+    "name": "iimonday_",
+    "region": "EU",
+    "type": "Premium",
+    "stats": []
   }
 ]
