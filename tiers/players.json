@@ -1876,7 +1876,12 @@
     "name": "7h15",
     "region": "NA",
     "type": "Premium",
-    "stats": []
+    "stats": [
+      {
+        "kit": "Elytra",
+        "tier": "LT3"
+      }
+    ]
   },
   {
     "name": "iimonday_",
