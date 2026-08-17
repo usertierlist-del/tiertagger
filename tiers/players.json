@@ -485,6 +485,10 @@
       {
         "kit": "Spearmace",
         "tier": "LT4"
+      },
+      {
+        "kit": "Elytra",
+        "tier": "LT3"
       }
     ]
   },
