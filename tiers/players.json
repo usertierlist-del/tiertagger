@@ -1305,6 +1305,10 @@
       {
         "kit": "DiaSMP",
         "tier": "LT3"
+      },
+      {
+        "kit": "Elytra",
+        "tier": "HT4"
       }
     ]
   },
