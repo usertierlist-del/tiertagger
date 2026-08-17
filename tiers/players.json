@@ -1425,6 +1425,10 @@
       {
         "kit": "Vanilla",
         "tier": "LT3"
+      },
+      {
+        "kit": "Speed",
+        "tier": "HT5"
       }
     ]
   },
