@@ -1727,6 +1727,10 @@
       {
         "kit": "OGV",
         "tier": "LT5"
+      },
+      {
+        "kit": "Vanilla",
+        "tier": "HT5"
       }
     ]
   },
