@@ -427,7 +427,12 @@
     "name": "PxYoutube",
     "region": "EU",
     "type": "Premium",
-    "stats": []
+    "stats": [
+      {
+        "kit": "Speed",
+        "tier": "LT4"
+      }
+    ]
   },
   {
     "name": "daoie",
