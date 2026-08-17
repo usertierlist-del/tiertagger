@@ -635,6 +635,10 @@
       {
         "kit": "Sword",
         "tier": "HT5"
+      },
+      {
+        "kit": "Axe",
+        "tier": "HT5"
       }
     ]
   },
