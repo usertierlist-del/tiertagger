@@ -1846,5 +1846,11 @@
         "tier": "HT4"
       }
     ]
+  },
+  {
+    "name": "7h15",
+    "region": "NA",
+    "type": "Premium",
+    "stats": []
   }
 ]
