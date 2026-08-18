@@ -533,7 +533,12 @@
     "name": "HoodDihDemarcus",
     "region": "NA",
     "type": "Premium",
-    "stats": []
+    "stats": [
+      {
+        "kit": "Axe",
+        "tier": "LT3"
+      }
+    ]
   },
   {
     "name": "n0ai",
