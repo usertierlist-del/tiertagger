@@ -680,6 +680,10 @@
       {
         "kit": "OGV",
         "tier": "HT5"
+      },
+      {
+        "kit": "Speed",
+        "tier": "HT5"
       }
     ]
   },
