@@ -2018,5 +2018,11 @@
     "region": "NA",
     "type": "Premium",
     "stats": []
+  },
+  {
+    "name": "oSus_",
+    "region": "AS",
+    "type": "Premium",
+    "stats": []
   }
 ]
