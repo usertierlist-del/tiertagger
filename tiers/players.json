@@ -447,6 +447,10 @@
       {
         "kit": "UHC",
         "tier": "LT5"
+      },
+      {
+        "kit": "Mace",
+        "tier": "HT5"
       }
     ]
   },
