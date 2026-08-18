@@ -2036,5 +2036,11 @@
     "region": "AS",
     "type": "Premium",
     "stats": []
+  },
+  {
+    "name": "_speck2k",
+    "region": "EU",
+    "type": "Premium",
+    "stats": []
   }
 ]
