@@ -1648,7 +1648,12 @@
     "name": "yaboyfruit",
     "region": "EU",
     "type": "Premium",
-    "stats": []
+    "stats": [
+      {
+        "kit": "Axe",
+        "tier": "LT3"
+      }
+    ]
   },
   {
     "name": "Lanluu",
