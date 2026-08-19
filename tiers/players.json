@@ -2142,6 +2142,11 @@
     "name": "_Derpy",
     "region": "NA",
     "type": "Premium",
-    "stats": []
+    "stats": [
+      {
+        "kit": "Axe",
+        "tier": "LT3"
+      }
+    ]
   }
 ]
