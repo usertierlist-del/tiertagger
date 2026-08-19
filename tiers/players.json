@@ -1518,6 +1518,10 @@
       {
         "kit": "Speed",
         "tier": "HT5"
+      },
+      {
+        "kit": "Axe",
+        "tier": "LT5"
       }
     ]
   },
