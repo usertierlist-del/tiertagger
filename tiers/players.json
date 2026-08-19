@@ -1091,6 +1091,10 @@
       {
         "kit": "Axe",
         "tier": "HT4"
+      },
+      {
+        "kit": "Speed",
+        "tier": "HT5"
       }
     ]
   },
