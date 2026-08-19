@@ -2098,5 +2098,11 @@
         "tier": "HT5"
       }
     ]
+  },
+  {
+    "name": "not_X019",
+    "region": "NA",
+    "type": "Premium",
+    "stats": []
   }
 ]
