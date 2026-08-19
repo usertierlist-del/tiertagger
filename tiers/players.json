@@ -882,6 +882,10 @@
       {
         "kit": "Trident",
         "tier": "LT5"
+      },
+      {
+        "kit": "Axe",
+        "tier": "HT5"
       }
     ]
   },
