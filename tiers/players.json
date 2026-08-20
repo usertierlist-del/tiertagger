@@ -2182,6 +2182,11 @@
     "name": "Cosmic0fspace",
     "region": "NA",
     "type": "Premium",
-    "stats": []
+    "stats": [
+      {
+        "kit": "Sword",
+        "tier": "LT5"
+      }
+    ]
   }
 ]
