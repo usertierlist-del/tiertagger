@@ -2197,7 +2197,12 @@
     "name": "crzydamir",
     "region": "NA",
     "type": "Premium",
-    "stats": []
+    "stats": [
+      {
+        "kit": "Sword",
+        "tier": "HT5"
+      }
+    ]
   },
   {
     "name": "Jaxy2820",
