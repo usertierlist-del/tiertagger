@@ -2161,6 +2161,11 @@
     "name": "k1ld_",
     "region": "EU",
     "type": "Premium",
-    "stats": []
+    "stats": [
+      {
+        "kit": "Sword",
+        "tier": "LT4"
+      }
+    ]
   }
 ]
