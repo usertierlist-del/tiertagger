@@ -2281,5 +2281,11 @@
     "region": "EU",
     "type": "Premium",
     "stats": []
+  },
+  {
+    "name": "MaxMP4",
+    "region": "NA",
+    "type": "Premium",
+    "stats": []
   }
 ]
