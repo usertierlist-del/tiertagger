@@ -2303,6 +2303,11 @@
     "name": "M8xx",
     "region": "NA",
     "type": "Premium",
-    "stats": []
+    "stats": [
+      {
+        "kit": "Speed",
+        "tier": "HT4"
+      }
+    ]
   }
 ]
