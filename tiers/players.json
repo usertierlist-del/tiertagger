@@ -2357,5 +2357,11 @@
         "tier": "LT4"
       }
     ]
+  },
+  {
+    "name": "votex_xr",
+    "region": "NA",
+    "type": "Premium",
+    "stats": []
   }
 ]
