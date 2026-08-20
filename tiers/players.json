@@ -2180,7 +2180,12 @@
     "name": "yQuang",
     "region": "NA",
     "type": "Premium",
-    "stats": []
+    "stats": [
+      {
+        "kit": "Sword",
+        "tier": "HT5"
+      }
+    ]
   },
   {
     "name": "Cosmic0fspace",
