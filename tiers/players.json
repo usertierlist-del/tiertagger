@@ -2340,6 +2340,11 @@
     "name": "vkroen",
     "region": "EU",
     "type": "Premium",
-    "stats": []
+    "stats": [
+      {
+        "kit": "Sword",
+        "tier": "HT5"
+      }
+    ]
   }
 ]
