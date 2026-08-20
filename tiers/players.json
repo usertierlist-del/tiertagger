@@ -2208,7 +2208,12 @@
     "name": "Jaxy2820",
     "region": "NA",
     "type": "Premium",
-    "stats": []
+    "stats": [
+      {
+        "kit": "Sword",
+        "tier": "LT5"
+      }
+    ]
   },
   {
     "name": "VespineHorse593",
