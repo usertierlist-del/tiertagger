@@ -553,6 +553,10 @@
       {
         "kit": "Axe",
         "tier": "HT3"
+      },
+      {
+        "kit": "Sword",
+        "tier": "LT3"
       }
     ]
   },
