@@ -1339,6 +1339,10 @@
       {
         "kit": "UHC",
         "tier": "HT5"
+      },
+      {
+        "kit": "Speed",
+        "tier": "HT4"
       }
     ]
   },
