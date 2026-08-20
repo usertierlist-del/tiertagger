@@ -2314,5 +2314,16 @@
         "tier": "HT4"
       }
     ]
+  },
+  {
+    "name": "m8xx",
+    "region": "ME",
+    "type": "Premium",
+    "stats": [
+      {
+        "kit": "Speed",
+        "tier": "HT4"
+      }
+    ]
   }
 ]
