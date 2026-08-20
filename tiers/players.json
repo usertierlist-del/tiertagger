@@ -2051,7 +2051,12 @@
     "name": "intentiona",
     "region": "EU",
     "type": "Premium",
-    "stats": []
+    "stats": [
+      {
+        "kit": "Sword",
+        "tier": "LT4"
+      }
+    ]
   },
   {
     "name": "efe23121",
