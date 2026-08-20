@@ -2230,5 +2230,11 @@
         "tier": "HT5"
       }
     ]
+  },
+  {
+    "name": "DuckyDNGR_",
+    "region": "NA",
+    "type": "Premium",
+    "stats": []
   }
 ]
