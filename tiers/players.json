@@ -2371,7 +2371,12 @@
     "name": "votex_xr",
     "region": "NA",
     "type": "Premium",
-    "stats": []
+    "stats": [
+      {
+        "kit": "Sword",
+        "tier": "LT5"
+      }
+    ]
   },
   {
     "name": "blueberrriesss",
