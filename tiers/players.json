@@ -2329,5 +2329,11 @@
         "tier": "HT4"
       }
     ]
+  },
+  {
+    "name": "hegyikevin",
+    "region": "EU",
+    "type": "Premium",
+    "stats": []
   }
 ]
