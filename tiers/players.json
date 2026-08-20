@@ -2152,5 +2152,11 @@
         "tier": "LT3"
       }
     ]
+  },
+  {
+    "name": "k1ld_",
+    "region": "EU",
+    "type": "Premium",
+    "stats": []
   }
 ]
