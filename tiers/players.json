@@ -2387,6 +2387,11 @@
     "name": "blueberrriesss",
     "region": "EU",
     "type": "Premium",
-    "stats": []
+    "stats": [
+      {
+        "kit": "Sword",
+        "tier": "LT4"
+      }
+    ]
   }
 ]
