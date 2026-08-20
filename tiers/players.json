@@ -2346,5 +2346,11 @@
         "tier": "HT5"
       }
     ]
+  },
+  {
+    "name": "Choboyz",
+    "region": "NA",
+    "type": "Premium",
+    "stats": []
   }
 ]
