@@ -2258,5 +2258,11 @@
     "region": "NA",
     "type": "Cracked",
     "stats": []
+  },
+  {
+    "name": "Tatictrack",
+    "region": "EU",
+    "type": "Premium",
+    "stats": []
   }
 ]
