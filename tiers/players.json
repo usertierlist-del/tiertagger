@@ -2302,7 +2302,12 @@
     "name": "arroweMC",
     "region": "NA",
     "type": "Cracked",
-    "stats": []
+    "stats": [
+      {
+        "kit": "Speed",
+        "tier": "HT4"
+      }
+    ]
   },
   {
     "name": "Tatictrack",
