@@ -2001,6 +2001,10 @@
       {
         "kit": "UHC",
         "tier": "HT5"
+      },
+      {
+        "kit": "Potion",
+        "tier": "HT5"
       }
     ]
   },
