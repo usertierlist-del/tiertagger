@@ -2477,6 +2477,11 @@
     "name": "intalic",
     "region": "NA",
     "type": "Premium",
-    "stats": []
+    "stats": [
+      {
+        "kit": "Sword",
+        "tier": "LT4"
+      }
+    ]
   }
 ]
