@@ -2363,7 +2363,12 @@
     "name": "GoldenByteMC",
     "region": "EU",
     "type": "Premium",
-    "stats": []
+    "stats": [
+      {
+        "kit": "Sword",
+        "tier": "HT5"
+      }
+    ]
   },
   {
     "name": "MaxMP4",
