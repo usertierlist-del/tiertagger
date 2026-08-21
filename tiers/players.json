@@ -2487,5 +2487,11 @@
         "tier": "LT4"
       }
     ]
+  },
+  {
+    "name": "Mineadam_",
+    "region": "EU",
+    "type": "Premium",
+    "stats": []
   }
 ]
