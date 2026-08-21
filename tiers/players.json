@@ -2527,6 +2527,11 @@
     "name": "ImJustStrange",
     "region": "NA",
     "type": "Premium",
-    "stats": []
+    "stats": [
+      {
+        "kit": "Sword",
+        "tier": "LT5"
+      }
+    ]
   }
 ]
