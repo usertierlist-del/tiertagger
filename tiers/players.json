@@ -2331,6 +2331,10 @@
       {
         "kit": "Sword",
         "tier": "HT5"
+      },
+      {
+        "kit": "Potion",
+        "tier": "HT5"
       }
     ]
   },
