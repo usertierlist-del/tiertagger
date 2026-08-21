@@ -2264,6 +2264,10 @@
       {
         "kit": "Sword",
         "tier": "LT5"
+      },
+      {
+        "kit": "Cart",
+        "tier": "HT5"
       }
     ]
   },
