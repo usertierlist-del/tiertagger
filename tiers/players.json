@@ -2569,7 +2569,12 @@
     "name": "Kuryomi",
     "region": "NA",
     "type": "Premium",
-    "stats": []
+    "stats": [
+      {
+        "kit": "Sword",
+        "tier": "LT5"
+      }
+    ]
   },
   {
     "name": "ItSparkyOfficial",
