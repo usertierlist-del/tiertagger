@@ -2569,6 +2569,11 @@
     "name": "Kuryomi",
     "region": "NA",
     "type": "Premium",
-    "stats": []
+    "stats": [
+      {
+        "kit": "Speed",
+        "tier": "LT3"
+      }
+    ]
   }
 ]
