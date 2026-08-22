@@ -1318,6 +1318,10 @@
       {
         "kit": "Potion",
         "tier": "LT4"
+      },
+      {
+        "kit": "Axe",
+        "tier": "LT4"
       }
     ]
   },
