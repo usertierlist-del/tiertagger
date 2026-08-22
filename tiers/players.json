@@ -790,7 +790,12 @@
     "name": "drewdrewthetwo2",
     "region": "NA",
     "type": "Premium",
-    "stats": []
+    "stats": [
+      {
+        "kit": "Spearmace",
+        "tier": "HT4"
+      }
+    ]
   },
   {
     "name": "DexLikesSteak",
