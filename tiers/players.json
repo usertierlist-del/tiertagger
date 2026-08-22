@@ -2607,7 +2607,12 @@
     "name": "hogninja7777",
     "region": "NA",
     "type": "Premium",
-    "stats": []
+    "stats": [
+      {
+        "kit": "Sword",
+        "tier": "HT5"
+      }
+    ]
   },
   {
     "name": "ZwightMC",
