@@ -2692,6 +2692,10 @@
       {
         "kit": "Sword",
         "tier": "LT3"
+      },
+      {
+        "kit": "Elytra",
+        "tier": "LT5"
       }
     ]
   }
