@@ -2569,12 +2569,7 @@
     "name": "Kuryomi",
     "region": "NA",
     "type": "Premium",
-    "stats": [
-      {
-        "kit": "Speed",
-        "tier": "LT3"
-      }
-    ]
+    "stats": []
   },
   {
     "name": "ItSparkyOfficial",
