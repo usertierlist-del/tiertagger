@@ -2719,5 +2719,11 @@
         "tier": "LT4"
       }
     ]
+  },
+  {
+    "name": "vuirn",
+    "region": "NA",
+    "type": "Premium",
+    "stats": []
   }
 ]
