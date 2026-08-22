@@ -2700,6 +2700,10 @@
       {
         "kit": "Elytra",
         "tier": "LT5"
+      },
+      {
+        "kit": "Speed",
+        "tier": "LT5"
       }
     ]
   }
