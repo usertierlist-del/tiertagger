@@ -2858,5 +2858,11 @@
     "region": "NA",
     "type": "Premium",
     "stats": []
+  },
+  {
+    "name": "blessedvase",
+    "region": "NA",
+    "type": "Premium",
+    "stats": []
   }
 ]
