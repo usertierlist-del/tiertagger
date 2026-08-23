@@ -2909,5 +2909,11 @@
         "tier": "HT4"
       }
     ]
+  },
+  {
+    "name": "ImZolarix",
+    "region": "NA",
+    "type": "Premium",
+    "stats": []
   }
 ]
