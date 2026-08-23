@@ -2682,6 +2682,10 @@
       {
         "kit": "Speed",
         "tier": "LT3"
+      },
+      {
+        "kit": "Vanilla",
+        "tier": "LT4"
       }
     ]
   },
