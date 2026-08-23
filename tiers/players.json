@@ -2835,6 +2835,10 @@
       {
         "kit": "Speed",
         "tier": "LT3"
+      },
+      {
+        "kit": "OGV",
+        "tier": "LT3"
       }
     ]
   },
