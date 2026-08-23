@@ -1322,6 +1322,10 @@
       {
         "kit": "Axe",
         "tier": "LT4"
+      },
+      {
+        "kit": "Vanilla",
+        "tier": "HT5"
       }
     ]
   },
