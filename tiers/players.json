@@ -2732,6 +2732,11 @@
     "name": "vuirn",
     "region": "NA",
     "type": "Premium",
-    "stats": []
+    "stats": [
+      {
+        "kit": "Sword",
+        "tier": "HT3"
+      }
+    ]
   }
 ]
