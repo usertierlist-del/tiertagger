@@ -2703,6 +2703,10 @@
       {
         "kit": "Vanilla",
         "tier": "LT4"
+      },
+      {
+        "kit": "Axe",
+        "tier": "HT4"
       }
     ]
   },
