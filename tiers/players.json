@@ -3020,6 +3020,11 @@
     "name": "Angelicccc",
     "region": "NA",
     "type": "Premium",
-    "stats": []
+    "stats": [
+      {
+        "kit": "Sword",
+        "tier": "HT4"
+      }
+    ]
   }
 ]
