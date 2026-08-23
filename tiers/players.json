@@ -2583,6 +2583,10 @@
       {
         "kit": "Sword",
         "tier": "LT4"
+      },
+      {
+        "kit": "Axe",
+        "tier": "HT5"
       }
     ]
   },
