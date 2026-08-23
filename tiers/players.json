@@ -2831,7 +2831,12 @@
     "name": "nappahh",
     "region": "NA",
     "type": "Premium",
-    "stats": []
+    "stats": [
+      {
+        "kit": "Sword",
+        "tier": "LT3"
+      }
+    ]
   },
   {
     "name": "MEAKZY",
