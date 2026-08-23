@@ -2077,7 +2077,12 @@
     "name": "Silentcy",
     "region": "NA",
     "type": "Premium",
-    "stats": []
+    "stats": [
+      {
+        "kit": "OGV",
+        "tier": "HT4"
+      }
+    ]
   },
   {
     "name": "id4r1us_",
