@@ -2081,20 +2081,7 @@
     "name": "Silentcy",
     "region": "NA",
     "type": "Premium",
-    "stats": [
-      {
-        "kit": "OGV",
-        "tier": "HT4"
-      },
-      {
-        "kit": "Axe",
-        "tier": "LT3"
-      },
-      {
-        "kit": "Sword",
-        "tier": "HT4"
-      }
-    ]
+    "stats": []
   },
   {
     "name": "id4r1us_",
