@@ -2762,5 +2762,11 @@
         "tier": "HT3"
       }
     ]
+  },
+  {
+    "name": "ZGLB",
+    "region": "NA",
+    "type": "Premium",
+    "stats": []
   }
 ]
