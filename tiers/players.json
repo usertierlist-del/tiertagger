@@ -2973,5 +2973,11 @@
         "tier": "LT4"
       }
     ]
+  },
+  {
+    "name": "Sintinal",
+    "region": "NA",
+    "type": "Premium",
+    "stats": []
   }
 ]
