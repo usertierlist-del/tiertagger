@@ -3064,5 +3064,11 @@
     "region": "NA",
     "type": "Premium",
     "stats": []
+  },
+  {
+    "name": "TheAncientBird",
+    "region": "EU",
+    "type": "Premium",
+    "stats": []
   }
 ]
