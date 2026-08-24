@@ -2181,7 +2181,12 @@
     "name": "iimonday_",
     "region": "EU",
     "type": "Premium",
-    "stats": []
+    "stats": [
+      {
+        "kit": "Spearmace",
+        "tier": "LT4"
+      }
+    ]
   },
   {
     "name": "intentiona",
