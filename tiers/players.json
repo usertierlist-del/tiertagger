@@ -3129,7 +3129,12 @@
     "name": "T3QW",
     "region": "NA",
     "type": "Premium",
-    "stats": []
+    "stats": [
+      {
+        "kit": "Sword",
+        "tier": "HT4"
+      }
+    ]
   },
   {
     "name": "unsertn_",
