@@ -3068,6 +3068,10 @@
       {
         "kit": "DiaSMP",
         "tier": "LT4"
+      },
+      {
+        "kit": "Trident",
+        "tier": "HT4"
       }
     ]
   },
