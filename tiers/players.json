@@ -1630,7 +1630,12 @@
     "name": "TeddyTyson",
     "region": "EU",
     "type": "Premium",
-    "stats": []
+    "stats": [
+      {
+        "kit": "SMP",
+        "tier": "HT4"
+      }
+    ]
   },
   {
     "name": "diabeastes",
