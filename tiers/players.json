@@ -3205,7 +3205,12 @@
     "name": "byt3s_",
     "region": "NA",
     "type": "Premium",
-    "stats": []
+    "stats": [
+      {
+        "kit": "Sword",
+        "tier": "LT4"
+      }
+    ]
   },
   {
     "name": "imortalizes",
