@@ -2116,6 +2116,10 @@
       {
         "kit": "Potion",
         "tier": "HT5"
+      },
+      {
+        "kit": "DiaSMP",
+        "tier": "LT5"
       }
     ]
   },
