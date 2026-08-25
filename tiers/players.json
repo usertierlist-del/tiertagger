@@ -2968,7 +2968,12 @@
     "name": "Jayoscio",
     "region": "NA",
     "type": "Premium",
-    "stats": []
+    "stats": [
+      {
+        "kit": "DiaSMP",
+        "tier": "LT3"
+      }
+    ]
   },
   {
     "name": "oonyy",
