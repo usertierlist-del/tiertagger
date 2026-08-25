@@ -2855,7 +2855,12 @@
     "name": "sebbe961",
     "region": "EU",
     "type": "Premium",
-    "stats": []
+    "stats": [
+      {
+        "kit": "Sword",
+        "tier": "LT3"
+      }
+    ]
   },
   {
     "name": "ItzKillingMe",
