@@ -1228,6 +1228,10 @@
       {
         "kit": "Spearmace",
         "tier": "LT4"
+      },
+      {
+        "kit": "Axe",
+        "tier": "LT3"
       }
     ]
   },
