@@ -3043,6 +3043,10 @@
       {
         "kit": "OGV",
         "tier": "HT5"
+      },
+      {
+        "kit": "DiaSMP",
+        "tier": "LT4"
       }
     ]
   },
