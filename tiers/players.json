@@ -2938,6 +2938,10 @@
       {
         "kit": "SMP",
         "tier": "HT4"
+      },
+      {
+        "kit": "Vanilla",
+        "tier": "LT5"
       }
     ]
   },
