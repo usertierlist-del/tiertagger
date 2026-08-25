@@ -2411,6 +2411,10 @@
       {
         "kit": "SMP",
         "tier": "LT4"
+      },
+      {
+        "kit": "DiaSMP",
+        "tier": "HT5"
       }
     ]
   },
