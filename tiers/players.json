@@ -3240,5 +3240,11 @@
     "region": "EU",
     "type": "Premium",
     "stats": []
+  },
+  {
+    "name": "8435AA",
+    "region": "NA",
+    "type": "Premium",
+    "stats": []
   }
 ]
