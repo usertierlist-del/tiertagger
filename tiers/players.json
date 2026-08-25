@@ -2974,7 +2974,12 @@
     "name": "blessedvase",
     "region": "NA",
     "type": "Premium",
-    "stats": []
+    "stats": [
+      {
+        "kit": "SMP",
+        "tier": "LT4"
+      }
+    ]
   },
   {
     "name": "Jayoscio",
