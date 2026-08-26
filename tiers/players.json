@@ -2768,6 +2768,10 @@
       {
         "kit": "Vanilla",
         "tier": "LT3"
+      },
+      {
+        "kit": "Mace",
+        "tier": "LT3"
       }
     ]
   },
