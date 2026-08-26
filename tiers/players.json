@@ -558,6 +558,10 @@
       {
         "kit": "Trident",
         "tier": "LT3"
+      },
+      {
+        "kit": "Vanilla",
+        "tier": "LT3"
       }
     ]
   },
