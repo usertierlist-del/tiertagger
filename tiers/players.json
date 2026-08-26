@@ -3500,5 +3500,11 @@
         "tier": "LT3"
       }
     ]
+  },
+  {
+    "name": "PoliticTerms",
+    "region": "NA",
+    "type": "Premium",
+    "stats": []
   }
 ]
