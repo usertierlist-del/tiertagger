@@ -3505,6 +3505,11 @@
     "name": "PoliticTerms",
     "region": "NA",
     "type": "Premium",
-    "stats": []
+    "stats": [
+      {
+        "kit": "Sword",
+        "tier": "LT3"
+      }
+    ]
   }
 ]
