@@ -1344,6 +1344,10 @@
       {
         "kit": "Elytra",
         "tier": "LT4"
+      },
+      {
+        "kit": "Potion",
+        "tier": "HT4"
       }
     ]
   },
