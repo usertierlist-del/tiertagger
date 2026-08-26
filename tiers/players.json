@@ -2793,6 +2793,10 @@
       {
         "kit": "Potion",
         "tier": "LT3"
+      },
+      {
+        "kit": "DiaSMP",
+        "tier": "HT4"
       }
     ]
   },
