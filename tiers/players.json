@@ -3050,6 +3050,10 @@
       {
         "kit": "Potion",
         "tier": "HT4"
+      },
+      {
+        "kit": "Elytra",
+        "tier": "LT5"
       }
     ]
   },
