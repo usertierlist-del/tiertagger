@@ -3466,6 +3466,11 @@
     "name": "PiggyPorkyChops",
     "region": "NA",
     "type": "Premium",
-    "stats": []
+    "stats": [
+      {
+        "kit": "OGV",
+        "tier": "LT3"
+      }
+    ]
   }
 ]
