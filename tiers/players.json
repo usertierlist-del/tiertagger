@@ -2343,7 +2343,12 @@
     "name": "Aquacm_",
     "region": "EU",
     "type": "Premium",
-    "stats": []
+    "stats": [
+      {
+        "kit": "OGV",
+        "tier": "LT5"
+      }
+    ]
   },
   {
     "name": "baileydee",
