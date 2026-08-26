@@ -863,6 +863,10 @@
       {
         "kit": "SMP",
         "tier": "HT5"
+      },
+      {
+        "kit": "UHC",
+        "tier": "HT5"
       }
     ]
   },
