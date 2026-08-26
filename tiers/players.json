@@ -1260,6 +1260,10 @@
       {
         "kit": "Axe",
         "tier": "LT3"
+      },
+      {
+        "kit": "DiaSMP",
+        "tier": "LT4"
       }
     ]
   },
