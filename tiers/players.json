@@ -1952,6 +1952,10 @@
       {
         "kit": "Sword",
         "tier": "HT4"
+      },
+      {
+        "kit": "DiaSMP",
+        "tier": "LT4"
       }
     ]
   },
