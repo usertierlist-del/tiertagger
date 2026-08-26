@@ -1213,6 +1213,10 @@
       {
         "kit": "Elytra",
         "tier": "HT5"
+      },
+      {
+        "kit": "Potion",
+        "tier": "HT5"
       }
     ]
   },
