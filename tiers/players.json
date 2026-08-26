@@ -3484,7 +3484,12 @@
     "name": "CallMeA",
     "region": "NA",
     "type": "Premium",
-    "stats": []
+    "stats": [
+      {
+        "kit": "DiaSMP",
+        "tier": "HT4"
+      }
+    ]
   },
   {
     "name": "xc2",
