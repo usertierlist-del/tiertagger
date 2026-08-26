@@ -3428,7 +3428,12 @@
     "name": "Minecon66",
     "region": "NA",
     "type": "Premium",
-    "stats": []
+    "stats": [
+      {
+        "kit": "Vanilla",
+        "tier": "HT5"
+      }
+    ]
   },
   {
     "name": "byt3s_",
