@@ -3400,5 +3400,11 @@
         "tier": "HT5"
       }
     ]
+  },
+  {
+    "name": "Nebec",
+    "region": "NA",
+    "type": "Premium",
+    "stats": []
   }
 ]
