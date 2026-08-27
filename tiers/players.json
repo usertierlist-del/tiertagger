@@ -1601,6 +1601,10 @@
       {
         "kit": "Potion",
         "tier": "LT3"
+      },
+      {
+        "kit": "Spearmace",
+        "tier": "LT3"
       }
     ]
   },
