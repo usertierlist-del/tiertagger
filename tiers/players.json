@@ -3505,6 +3505,10 @@
       {
         "kit": "NethOp",
         "tier": "HT5"
+      },
+      {
+        "kit": "Vanilla",
+        "tier": "HT5"
       }
     ]
   },
