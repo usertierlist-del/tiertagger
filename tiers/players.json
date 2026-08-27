@@ -3350,7 +3350,12 @@
     "name": "TheAncientBird",
     "region": "EU",
     "type": "Premium",
-    "stats": []
+    "stats": [
+      {
+        "kit": "DiaSMP",
+        "tier": "LT3"
+      }
+    ]
   },
   {
     "name": "dozee_",
