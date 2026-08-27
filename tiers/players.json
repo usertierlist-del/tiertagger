@@ -3652,5 +3652,11 @@
     "region": "NA",
     "type": "Premium",
     "stats": []
+  },
+  {
+    "name": "GersBes",
+    "region": "EU",
+    "type": "Premium",
+    "stats": []
   }
 ]
