@@ -3492,6 +3492,10 @@
       {
         "kit": "Axe",
         "tier": "HT5"
+      },
+      {
+        "kit": "NethOp",
+        "tier": "HT5"
       }
     ]
   },
