@@ -305,6 +305,10 @@
       {
         "kit": "Axe",
         "tier": "LT3"
+      },
+      {
+        "kit": "NethOp",
+        "tier": "LT4"
       }
     ]
   },
