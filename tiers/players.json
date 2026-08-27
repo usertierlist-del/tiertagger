@@ -3594,5 +3594,11 @@
     "region": "NA",
     "type": "Premium",
     "stats": []
+  },
+  {
+    "name": "LiquidNN",
+    "region": "NA",
+    "type": "Premium",
+    "stats": []
   }
 ]
