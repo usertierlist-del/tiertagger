@@ -3577,5 +3577,11 @@
     "region": "EU",
     "type": "Premium",
     "stats": []
+  },
+  {
+    "name": "puglino",
+    "region": "NA",
+    "type": "Premium",
+    "stats": []
   }
 ]
