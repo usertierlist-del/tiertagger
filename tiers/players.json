@@ -3640,5 +3640,11 @@
     "region": "NA",
     "type": "Premium",
     "stats": []
+  },
+  {
+    "name": "IGNDeflect",
+    "region": "NA",
+    "type": "Premium",
+    "stats": []
   }
 ]
