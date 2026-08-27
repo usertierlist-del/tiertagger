@@ -3516,7 +3516,12 @@
     "name": "xc2",
     "region": "NA",
     "type": "Premium",
-    "stats": []
+    "stats": [
+      {
+        "kit": "DiaSMP",
+        "tier": "LT4"
+      }
+    ]
   },
   {
     "name": "vixss",
