@@ -509,6 +509,10 @@
       {
         "kit": "Potion",
         "tier": "LT3"
+      },
+      {
+        "kit": "Mace",
+        "tier": "LT3"
       }
     ]
   },
