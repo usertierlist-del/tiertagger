@@ -379,64 +379,7 @@
     "name": "_sw3rd",
     "region": "NA",
     "type": "Premium",
-    "stats": [
-      {
-        "kit": "Sword",
-        "tier": "HT3"
-      },
-      {
-        "kit": "Elytra",
-        "tier": "LT3"
-      },
-      {
-        "kit": "Trident",
-        "tier": "LT3"
-      },
-      {
-        "kit": "Potion",
-        "tier": "LT3"
-      },
-      {
-        "kit": "OGV",
-        "tier": "HT3"
-      },
-      {
-        "kit": "NethOp",
-        "tier": "LT3"
-      },
-      {
-        "kit": "UHC",
-        "tier": "LT3"
-      },
-      {
-        "kit": "Speed",
-        "tier": "HT3"
-      },
-      {
-        "kit": "SMP",
-        "tier": "LT3"
-      },
-      {
-        "kit": "Spearmace",
-        "tier": "LT3"
-      },
-      {
-        "kit": "DiaSMP",
-        "tier": "LT3"
-      },
-      {
-        "kit": "Cart",
-        "tier": "LT3"
-      },
-      {
-        "kit": "Vanilla",
-        "tier": "LT3"
-      },
-      {
-        "kit": "Axe",
-        "tier": "LT3"
-      }
-    ]
+    "stats": []
   },
   {
     "name": "ItzRealMe",
