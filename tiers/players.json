@@ -169,6 +169,10 @@
       {
         "kit": "Cart",
         "tier": "HT5"
+      },
+      {
+        "kit": "NethOp",
+        "tier": "HT5"
       }
     ]
   },
