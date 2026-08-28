@@ -1637,6 +1637,10 @@
       {
         "kit": "Spearmace",
         "tier": "LT3"
+      },
+      {
+        "kit": "Cart",
+        "tier": "LT3"
       }
     ]
   },
