@@ -3749,7 +3749,12 @@
     "name": "feltme",
     "region": "NA",
     "type": "Premium",
-    "stats": []
+    "stats": [
+      {
+        "kit": "Mace",
+        "tier": "LT3"
+      }
+    ]
   },
   {
     "name": "Sonarzz",
