@@ -3192,6 +3192,10 @@
       {
         "kit": "Potion",
         "tier": "HT4"
+      },
+      {
+        "kit": "Mace",
+        "tier": "LT4"
       }
     ]
   },
