@@ -1897,7 +1897,12 @@
     "name": "TheWayThatItWas",
     "region": "NA",
     "type": "Premium",
-    "stats": []
+    "stats": [
+      {
+        "kit": "Mace",
+        "tier": "LT5"
+      }
+    ]
   },
   {
     "name": "zyazz_",
