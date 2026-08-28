@@ -165,6 +165,10 @@
       {
         "kit": "Vanilla",
         "tier": "HT5"
+      },
+      {
+        "kit": "Cart",
+        "tier": "HT5"
       }
     ]
   },
