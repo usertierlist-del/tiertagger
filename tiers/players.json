@@ -173,6 +173,10 @@
       {
         "kit": "NethOp",
         "tier": "HT5"
+      },
+      {
+        "kit": "DiaSMP",
+        "tier": "HT5"
       }
     ]
   },
