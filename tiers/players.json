@@ -3811,5 +3811,11 @@
         "tier": "LT3"
       }
     ]
+  },
+  {
+    "name": "Madoka23",
+    "region": "AS",
+    "type": "Premium",
+    "stats": []
   }
 ]
