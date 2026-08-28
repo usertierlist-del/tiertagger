@@ -3646,7 +3646,12 @@
     "name": "EclipseO_",
     "region": "NA",
     "type": "Premium",
-    "stats": []
+    "stats": [
+      {
+        "kit": "Axe",
+        "tier": "HT5"
+      }
+    ]
   },
   {
     "name": "tarooqaa",
