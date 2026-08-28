@@ -3652,24 +3652,7 @@
     "name": "vixss",
     "region": "NA",
     "type": "Premium",
-    "stats": [
-      {
-        "kit": "Speed",
-        "tier": "LT3"
-      },
-      {
-        "kit": "Mace",
-        "tier": "HT4"
-      },
-      {
-        "kit": "Axe",
-        "tier": "LT3"
-      },
-      {
-        "kit": "SMP",
-        "tier": "LT3"
-      }
-    ]
+    "stats": []
   },
   {
     "name": "PiggyPorkyChops",
