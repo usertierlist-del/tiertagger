@@ -2726,6 +2726,10 @@
       {
         "kit": "Speed",
         "tier": "HT5"
+      },
+      {
+        "kit": "Cart",
+        "tier": "LT4"
       }
     ]
   },
