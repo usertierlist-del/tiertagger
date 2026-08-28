@@ -3540,16 +3540,7 @@
     "name": "Imtiny_",
     "region": "NA",
     "type": "Premium",
-    "stats": [
-      {
-        "kit": "Speed",
-        "tier": "LT3"
-      },
-      {
-        "kit": "Spearmace",
-        "tier": "LT4"
-      }
-    ]
+    "stats": []
   },
   {
     "name": "BEDbot4President",
