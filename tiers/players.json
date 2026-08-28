@@ -3839,6 +3839,11 @@
     "name": "AlexTheBird",
     "region": "EU",
     "type": "Premium",
-    "stats": []
+    "stats": [
+      {
+        "kit": "Mace",
+        "tier": "LT4"
+      }
+    ]
   }
 ]
