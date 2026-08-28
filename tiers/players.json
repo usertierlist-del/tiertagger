@@ -3797,7 +3797,12 @@
     "name": "Sonarzz",
     "region": "NA",
     "type": "Premium",
-    "stats": []
+    "stats": [
+      {
+        "kit": "Mace",
+        "tier": "HT4"
+      }
+    ]
   },
   {
     "name": "NotStyrx",
