@@ -3805,6 +3805,11 @@
     "name": "bleachgobbler",
     "region": "NA",
     "type": "Premium",
-    "stats": []
+    "stats": [
+      {
+        "kit": "Cart",
+        "tier": "LT3"
+      }
+    ]
   }
 ]
