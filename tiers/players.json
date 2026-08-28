@@ -161,6 +161,10 @@
       {
         "kit": "Mace",
         "tier": "LT3"
+      },
+      {
+        "kit": "Vanilla",
+        "tier": "HT5"
       }
     ]
   },
