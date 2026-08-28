@@ -2558,6 +2558,10 @@
       {
         "kit": "Mace",
         "tier": "LT3"
+      },
+      {
+        "kit": "Spearmace",
+        "tier": "LT3"
       }
     ]
   },
