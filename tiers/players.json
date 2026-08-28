@@ -1968,6 +1968,10 @@
       {
         "kit": "DiaSMP",
         "tier": "LT4"
+      },
+      {
+        "kit": "NethOp",
+        "tier": "HT5"
       }
     ]
   },
