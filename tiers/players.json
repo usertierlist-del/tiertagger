@@ -3847,6 +3847,10 @@
       {
         "kit": "Mace",
         "tier": "LT4"
+      },
+      {
+        "kit": "Spearmace",
+        "tier": "LT4"
       }
     ]
   }
