@@ -900,6 +900,10 @@
       {
         "kit": "SMP",
         "tier": "HT5"
+      },
+      {
+        "kit": "Elytra",
+        "tier": "LT5"
       }
     ]
   },
