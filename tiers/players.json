@@ -2233,6 +2233,10 @@
       {
         "kit": "DiaSMP",
         "tier": "LT5"
+      },
+      {
+        "kit": "Mace",
+        "tier": "HT5"
       }
     ]
   },
