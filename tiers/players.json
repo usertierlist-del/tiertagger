@@ -3294,7 +3294,12 @@
     "name": "ridrr",
     "region": "NA",
     "type": "Premium",
-    "stats": []
+    "stats": [
+      {
+        "kit": "DiaSMP",
+        "tier": "LT3"
+      }
+    ]
   },
   {
     "name": "_tvrtle",
