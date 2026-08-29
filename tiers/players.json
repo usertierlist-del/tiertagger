@@ -2504,6 +2504,10 @@
       {
         "kit": "Speed",
         "tier": "HT5"
+      },
+      {
+        "kit": "DiaSMP",
+        "tier": "HT4"
       }
     ]
   },
