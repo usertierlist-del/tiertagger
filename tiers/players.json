@@ -3967,5 +3967,11 @@
     "region": "NA",
     "type": "Premium",
     "stats": []
+  },
+  {
+    "name": "NotMint__",
+    "region": "EU",
+    "type": "Premium",
+    "stats": []
   }
 ]
