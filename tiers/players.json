@@ -3986,6 +3986,10 @@
       {
         "kit": "Sword",
         "tier": "HT4"
+      },
+      {
+        "kit": "Spearmace",
+        "tier": "HT5"
       }
     ]
   }
