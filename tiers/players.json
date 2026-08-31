@@ -2782,6 +2782,10 @@
       {
         "kit": "Cart",
         "tier": "LT4"
+      },
+      {
+        "kit": "Mace",
+        "tier": "LT3"
       }
     ]
   },
