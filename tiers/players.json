@@ -2720,6 +2720,10 @@
       {
         "kit": "Sword",
         "tier": "HT4"
+      },
+      {
+        "kit": "Axe",
+        "tier": "LT3"
       }
     ]
   },
