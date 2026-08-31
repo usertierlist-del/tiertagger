@@ -4008,5 +4008,11 @@
         "tier": "LT5"
       }
     ]
+  },
+  {
+    "name": "Potqc",
+    "region": "NA",
+    "type": "Premium",
+    "stats": []
   }
 ]
