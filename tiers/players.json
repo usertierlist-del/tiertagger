@@ -3819,6 +3819,10 @@
       {
         "kit": "DiaSMP",
         "tier": "LT4"
+      },
+      {
+        "kit": "Speed",
+        "tier": "LT3"
       }
     ]
   },
