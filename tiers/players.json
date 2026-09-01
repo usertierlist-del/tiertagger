@@ -1118,6 +1118,10 @@
       {
         "kit": "Mace",
         "tier": "HT4"
+      },
+      {
+        "kit": "DiaSMP",
+        "tier": "HT5"
       }
     ]
   },
