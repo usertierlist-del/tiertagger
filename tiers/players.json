@@ -1992,6 +1992,10 @@
       {
         "kit": "NethOp",
         "tier": "HT5"
+      },
+      {
+        "kit": "Mace",
+        "tier": "LT4"
       }
     ]
   },
