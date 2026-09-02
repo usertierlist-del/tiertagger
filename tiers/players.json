@@ -4086,5 +4086,11 @@
     "region": "EU",
     "type": "Premium",
     "stats": []
+  },
+  {
+    "name": "chlorless",
+    "region": "NA",
+    "type": "Premium",
+    "stats": []
   }
 ]
