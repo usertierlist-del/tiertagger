@@ -4117,7 +4117,12 @@
     "name": "huskm",
     "region": "EU",
     "type": "Premium",
-    "stats": []
+    "stats": [
+      {
+        "kit": "Sword",
+        "tier": "LT3"
+      }
+    ]
   },
   {
     "name": "WhosFilly",
