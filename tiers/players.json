@@ -4194,6 +4194,11 @@
     "name": "Crysttism",
     "region": "NA",
     "type": "Cracked",
-    "stats": []
+    "stats": [
+      {
+        "kit": "Vanilla",
+        "tier": "HT5"
+      }
+    ]
   }
 ]
