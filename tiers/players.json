@@ -4347,5 +4347,11 @@
         "tier": "LT3"
       }
     ]
+  },
+  {
+    "name": "ry3dr",
+    "region": "NA",
+    "type": "Premium",
+    "stats": []
   }
 ]
