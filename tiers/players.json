@@ -4352,6 +4352,11 @@
     "name": "ry3dr",
     "region": "NA",
     "type": "Premium",
-    "stats": []
+    "stats": [
+      {
+        "kit": "Sword",
+        "tier": "LT3"
+      }
+    ]
   }
 ]
