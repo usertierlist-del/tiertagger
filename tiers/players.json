@@ -4112,5 +4112,11 @@
         "tier": "HT4"
       }
     ]
+  },
+  {
+    "name": "huskm",
+    "region": "EU",
+    "type": "Premium",
+    "stats": []
   }
 ]
