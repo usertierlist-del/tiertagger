@@ -4118,5 +4118,64 @@
     "region": "EU",
     "type": "Premium",
     "stats": []
+  },
+  {
+    "name": "WhosFilly",
+    "region": "NA",
+    "type": "Premium",
+    "stats": [
+      {
+        "kit": "Vanilla",
+        "tier": "LT3"
+      },
+      {
+        "kit": "UHC",
+        "tier": "HT5"
+      },
+      {
+        "kit": "Potion",
+        "tier": "LT4"
+      },
+      {
+        "kit": "DiaSMP",
+        "tier": "LT5"
+      },
+      {
+        "kit": "NethOp",
+        "tier": "LT5"
+      },
+      {
+        "kit": "Sword",
+        "tier": "LT3"
+      },
+      {
+        "kit": "Spearmace",
+        "tier": "LT3"
+      },
+      {
+        "kit": "Axe",
+        "tier": "LT3"
+      },
+      {
+        "kit": "Mace",
+        "tier": "HT5"
+      },
+      {
+        "kit": "OGV",
+        "tier": "LT3"
+      },
+      {
+        "kit": "Speed",
+        "tier": "LT3"
+      },
+      {
+        "kit": "Elytra",
+        "tier": "LT3"
+      },
+      {
+        "kit": "Trident",
+        "tier": "HT5"
+      }
+    ]
   }
 ]
