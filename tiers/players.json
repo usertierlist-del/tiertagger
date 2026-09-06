@@ -1661,6 +1661,10 @@
       {
         "kit": "Cart",
         "tier": "LT3"
+      },
+      {
+        "kit": "SMP",
+        "tier": "LT3"
       }
     ]
   },
