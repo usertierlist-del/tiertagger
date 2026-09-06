@@ -4270,6 +4270,10 @@
       {
         "kit": "Trident",
         "tier": "LT3"
+      },
+      {
+        "kit": "UHC",
+        "tier": "LT3"
       }
     ]
   },
