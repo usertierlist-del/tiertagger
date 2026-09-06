@@ -4319,5 +4319,24 @@
     "region": "NA",
     "type": "Premium",
     "stats": []
+  },
+  {
+    "name": "EkasFx",
+    "region": "NA",
+    "type": "Premium",
+    "stats": [
+      {
+        "kit": "SMP",
+        "tier": "HT4"
+      },
+      {
+        "kit": "Sword",
+        "tier": "LT3"
+      },
+      {
+        "kit": "Speed",
+        "tier": "LT3"
+      }
+    ]
   }
 ]
