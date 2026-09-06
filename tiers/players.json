@@ -4272,5 +4272,20 @@
         "tier": "LT3"
       }
     ]
+  },
+  {
+    "name": "WillowVasto",
+    "region": "NA",
+    "type": "Premium",
+    "stats": [
+      {
+        "kit": "Sword",
+        "tier": "HT4"
+      },
+      {
+        "kit": "Axe",
+        "tier": "HT5"
+      }
+    ]
   }
 ]
