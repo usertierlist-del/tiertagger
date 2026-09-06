@@ -4177,5 +4177,11 @@
         "tier": "HT5"
       }
     ]
+  },
+  {
+    "name": "_FrostedMC",
+    "region": "EU",
+    "type": "Premium",
+    "stats": []
   }
 ]
