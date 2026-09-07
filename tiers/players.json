@@ -2982,6 +2982,10 @@
       {
         "kit": "Mace",
         "tier": "LT3"
+      },
+      {
+        "kit": "Spearmace",
+        "tier": "HT5"
       }
     ]
   },
