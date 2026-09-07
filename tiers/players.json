@@ -2667,6 +2667,10 @@
       {
         "kit": "Spearmace",
         "tier": "LT3"
+      },
+      {
+        "kit": "DiaSMP",
+        "tier": "HT5"
       }
     ]
   },
