@@ -4507,5 +4507,11 @@
         "tier": "LT3"
       }
     ]
+  },
+  {
+    "name": "floppedthesecond",
+    "region": "NA",
+    "type": "Premium",
+    "stats": []
   }
 ]
