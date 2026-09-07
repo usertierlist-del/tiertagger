@@ -2381,6 +2381,10 @@
       {
         "kit": "Speed",
         "tier": "LT3"
+      },
+      {
+        "kit": "Spearmace",
+        "tier": "LT4"
       }
     ]
   },
