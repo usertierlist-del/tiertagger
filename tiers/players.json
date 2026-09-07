@@ -4470,5 +4470,11 @@
     "region": "NA",
     "type": "Premium",
     "stats": []
+  },
+  {
+    "name": "TwoMax",
+    "region": "NA",
+    "type": "Premium",
+    "stats": []
   }
 ]
