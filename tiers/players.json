@@ -4525,5 +4525,11 @@
     "region": "NA",
     "type": "Premium",
     "stats": []
+  },
+  {
+    "name": "PoliticsTerms",
+    "region": "NA",
+    "type": "Premium",
+    "stats": []
   }
 ]
