@@ -2284,6 +2284,10 @@
       {
         "kit": "Mace",
         "tier": "LT4"
+      },
+      {
+        "kit": "DiaSMP",
+        "tier": "LT3"
       }
     ]
   },
