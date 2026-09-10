@@ -4536,7 +4536,12 @@
     "name": "floppedthesecond",
     "region": "NA",
     "type": "Premium",
-    "stats": []
+    "stats": [
+      {
+        "kit": "Cart",
+        "tier": "LT3"
+      }
+    ]
   },
   {
     "name": "PoliticsTerms",
