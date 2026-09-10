@@ -4568,7 +4568,12 @@
     "name": "snakegotchosen",
     "region": "NA",
     "type": "Premium",
-    "stats": []
+    "stats": [
+      {
+        "kit": "DiaSMP",
+        "tier": "HT5"
+      }
+    ]
   },
   {
     "name": "awsna",
