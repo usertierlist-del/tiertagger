@@ -4569,5 +4569,11 @@
     "region": "NA",
     "type": "Premium",
     "stats": []
+  },
+  {
+    "name": "awsna",
+    "region": "NA",
+    "type": "Premium",
+    "stats": []
   }
 ]
