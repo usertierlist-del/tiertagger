@@ -2893,6 +2893,10 @@
       {
         "kit": "Potion",
         "tier": "HT5"
+      },
+      {
+        "kit": "UHC",
+        "tier": "LT4"
       }
     ]
   },
