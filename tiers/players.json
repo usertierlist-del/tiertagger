@@ -4655,6 +4655,10 @@
       {
         "kit": "Sword",
         "tier": "HT4"
+      },
+      {
+        "kit": "SMP",
+        "tier": "LT4"
       }
     ]
   }
