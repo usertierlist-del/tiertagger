@@ -3500,6 +3500,10 @@
       {
         "kit": "SMP",
         "tier": "LT3"
+      },
+      {
+        "kit": "Potion",
+        "tier": "HT4"
       }
     ]
   },
