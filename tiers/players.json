@@ -2296,6 +2296,10 @@
       {
         "kit": "Potion",
         "tier": "LT3"
+      },
+      {
+        "kit": "SMP",
+        "tier": "LT3"
       }
     ]
   },
