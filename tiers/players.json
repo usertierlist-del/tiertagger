@@ -4129,7 +4129,12 @@
     "name": "NotStyrx",
     "region": "NA",
     "type": "Premium",
-    "stats": []
+    "stats": [
+      {
+        "kit": "Spearmace",
+        "tier": "LT3"
+      }
+    ]
   },
   {
     "name": "bleachgobbler",
