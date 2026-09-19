@@ -4744,6 +4744,11 @@
     "name": "kittymeow_meowP",
     "region": "EU",
     "type": "Premium",
-    "stats": []
+    "stats": [
+      {
+        "kit": "Sword",
+        "tier": "HT4"
+      }
+    ]
   }
 ]
