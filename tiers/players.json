@@ -4147,6 +4147,10 @@
       {
         "kit": "SMP",
         "tier": "HT5"
+      },
+      {
+        "kit": "Spearmace",
+        "tier": "LT3"
       }
     ]
   },
