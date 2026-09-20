@@ -3455,6 +3455,10 @@
       {
         "kit": "SMP",
         "tier": "LT3"
+      },
+      {
+        "kit": "Spearmace",
+        "tier": "LT3"
       }
     ]
   },
