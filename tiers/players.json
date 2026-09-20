@@ -4732,7 +4732,12 @@
     "name": "Tellitrias",
     "region": "NA",
     "type": "Premium",
-    "stats": []
+    "stats": [
+      {
+        "kit": "UHC",
+        "tier": "LT3"
+      }
+    ]
   },
   {
     "name": "Xgivesmebelt",
