@@ -1562,7 +1562,12 @@
     "name": "uno0226",
     "region": "AS",
     "type": "Premium",
-    "stats": []
+    "stats": [
+      {
+        "kit": "Sword",
+        "tier": "HT5"
+      }
+    ]
   },
   {
     "name": "ken31fish",
