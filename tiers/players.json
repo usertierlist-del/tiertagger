@@ -4574,6 +4574,10 @@
       {
         "kit": "Mace",
         "tier": "LT3"
+      },
+      {
+        "kit": "Speed",
+        "tier": "LT4"
       }
     ]
   },
