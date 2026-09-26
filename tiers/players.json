@@ -3557,6 +3557,10 @@
       {
         "kit": "Potion",
         "tier": "HT4"
+      },
+      {
+        "kit": "Spearmace",
+        "tier": "HT5"
       }
     ]
   },
