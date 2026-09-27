@@ -4871,5 +4871,11 @@
         "tier": "LT5"
       }
     ]
+  },
+  {
+    "name": "harrrowed",
+    "region": "EU",
+    "type": "Cracked",
+    "stats": []
   }
 ]
