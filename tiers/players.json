@@ -4860,5 +4860,11 @@
     "region": "NA",
     "type": "Premium",
     "stats": []
+  },
+  {
+    "name": "GameOnDudex_doom",
+    "region": "AS",
+    "type": "Premium",
+    "stats": []
   }
 ]
