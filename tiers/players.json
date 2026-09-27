@@ -4683,7 +4683,12 @@
     "name": "TwoMax",
     "region": "NA",
     "type": "Premium",
-    "stats": []
+    "stats": [
+      {
+        "kit": "Sword",
+        "tier": "LT4"
+      }
+    ]
   },
   {
     "name": "Hadbeen",
