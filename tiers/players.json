@@ -4876,6 +4876,11 @@
     "name": "harrrowed",
     "region": "EU",
     "type": "Cracked",
-    "stats": []
+    "stats": [
+      {
+        "kit": "Spearmace",
+        "tier": "LT4"
+      }
+    ]
   }
 ]
