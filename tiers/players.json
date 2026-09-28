@@ -4818,6 +4818,10 @@
       {
         "kit": "DiaSMP",
         "tier": "LT5"
+      },
+      {
+        "kit": "UHC",
+        "tier": "LT5"
       }
     ]
   },
