@@ -4916,6 +4916,11 @@
     "name": "4b5rtc",
     "region": "NA",
     "type": "Premium",
-    "stats": []
+    "stats": [
+      {
+        "kit": "Sword",
+        "tier": "LT4"
+      }
+    ]
   }
 ]
