@@ -4922,5 +4922,11 @@
         "tier": "LT4"
       }
     ]
+  },
+  {
+    "name": "liryne",
+    "region": "NA",
+    "type": "Premium",
+    "stats": []
   }
 ]
