@@ -4927,6 +4927,11 @@
     "name": "liryne",
     "region": "NA",
     "type": "Premium",
-    "stats": []
+    "stats": [
+      {
+        "kit": "SMP",
+        "tier": "HT3"
+      }
+    ]
   }
 ]
