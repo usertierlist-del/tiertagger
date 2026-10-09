@@ -4936,6 +4936,10 @@
       {
         "kit": "SMP",
         "tier": "HT3"
+      },
+      {
+        "kit": "Spearmace",
+        "tier": "LT3"
       }
     ]
   }
