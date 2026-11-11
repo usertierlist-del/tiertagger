@@ -4958,5 +4958,11 @@
         "tier": "HT4"
       }
     ]
+  },
+  {
+    "name": "_drgon_",
+    "region": "NA",
+    "type": "Premium",
+    "stats": []
   }
 ]
